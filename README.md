@@ -7,7 +7,7 @@ The hello_world.py program is just as simple as it sounds and just prints a 'Hel
 This is a collection of small projects that I have done to familiarize myself with new programming languages and technologies. 
 
 # Video of software demo
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XblxMXmjz2M)
 
 # Development Environment
 
